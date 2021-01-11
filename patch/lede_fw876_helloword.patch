@@ -1,0 +1,9 @@
+diff --git a/feeds.conf.default b/feeds.conf.default
+index 03bfacb620..f443d8874d 100644
+--- a/feeds.conf.default
++++ b/feeds.conf.default
+@@ -8,3 +8,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
+ #src-git management https://github.com/openwrt-management/packages.git
+ #src-git oldpackages http://git.openwrt.org/packages.git
+ #src-link custom /usr/src/openwrt/custom-feed
++src-git helloworld https://github.com/fw876/helloworld
